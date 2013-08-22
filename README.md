@@ -1,0 +1,4 @@
+RequireJS
+=========
+
+RequireJS Maven Dependency
